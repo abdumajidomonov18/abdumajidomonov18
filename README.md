@@ -14,7 +14,7 @@ Hi, I'm Abdumajid. I've been working as a backend developer for 2 years. I've bu
 
 🔭 &nbsp;I'm currently working on **Taomnoma**  
 💬 &nbsp;Ask me about **Python, Django, and Anything about coding**  
-😄 &nbsp;Pronouns: **he/her**  
+😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I go to gym and do exercise**
 
 ### 🛠️ Tech Stack
